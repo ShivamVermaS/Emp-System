@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.exam.EmpSystem.Entity.Employee;
 import com.exam.EmpSystem.Services.EmpService;
 
-
-
-
 @Controller
 public class EmpController {
 

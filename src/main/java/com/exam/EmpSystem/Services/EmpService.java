@@ -12,8 +12,6 @@ import org.springframework.stereotype.Service;
 import com.exam.EmpSystem.Entity.Employee;
 import com.exam.EmpSystem.Interface.EmpRepo;
 
-
-
 @Service
 public class EmpService {
 
